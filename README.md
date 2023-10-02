@@ -1,4 +1,4 @@
-# UiTesting_noncommerce
+# UiTesting_nopcommerce
 UI TESTING FOR THE WEBPAGE OF A COMMERCE SITE
 I understand your concern. Here's a more detailed README.md for your nopCommerce Backend Automation project:
 
